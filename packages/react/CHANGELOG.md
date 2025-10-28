@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.2](https://github.com/open-feature/js-sdk/compare/react-sdk-v1.0.1...react-sdk-v1.0.2) (2025-10-28)
+
+
+### 🧹 Chore
+
+* mention debounce hook in react/ng docs ([#1272](https://github.com/open-feature/js-sdk/issues/1272)) ([27666b8](https://github.com/open-feature/js-sdk/commit/27666b8c2d3f8131ba0b3f704ca1c87df007a5fe))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @openfeature/web-sdk bumped from * to 1.7.1
+
 ## [1.0.1](https://github.com/open-feature/js-sdk/compare/react-sdk-v1.0.0...react-sdk-v1.0.1) (2025-08-18)
 
 
